@@ -14,4 +14,4 @@ See [`LEARNING_TODO.md`](LEARNING_TODO.md) for a list of what I’m learning!
 🧠 This project helps me:
 - Practice version control like a real developer
 - Track and reflect on what I’m learning
-- Build a public portfolio of consistent work
+- Build a public portfolio of consistent work..
