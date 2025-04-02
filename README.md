@@ -7,7 +7,7 @@ Welcome! This repo is my personal log of learning how to use Git and GitHub from
 - [Day 2](DAY_02.md): TBD...
 
 ## 📘 Learning Checklist
-See [`LEARNING_TODO.md`](LEARNING_TODO.md) for a list of what I’m learning!
+See [`LEARNING_TODO.md`](LEARNING-TODO.md) for a list of what I’m learning!
 
 ---
 
