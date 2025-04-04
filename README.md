@@ -6,7 +6,8 @@ Welcome! This repo is my personal log of learning how to use Git and GitHub and 
 
 ## 📅 Daily Logs
 - [Day 1](DAY_01.md): Git + GitHub Setup
-- [Day 2](DAY_02.md): TBD...
+- [Day 2](DAY_02.md): Git + C Basics
+- [Day 3](Day_03.md): TBD...
 
 ## 📘 Learning Checklist
 See [`LEARNING-TODO.md`](LEARNING-TODO.md) for a list of what I’m learning!
